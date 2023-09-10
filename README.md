@@ -1,7 +1,7 @@
-Проект: Telegram-бот с функцией календаря
+# **Проект: Telegram-бот с функцией календаря**
 
-Екатерина Москаленко
+## *Екатерина Москаленко*
 
-Katerin-Mozk
+## *Katerin-Mozk*
 
-intherain@list.ru
+## *intherain@list.ru*
